@@ -37,10 +37,16 @@ The project follows a modularized architecture with key components:
 
 ### Tests
 Tests are written for both the UI and business logic:
-**Unit Tests**: Ensures core functionality of ViewModels and Repositories.
+- **Unit Tests**: Ensures core functionality of ViewModels and Repositories.
   
 
 ## Future Improvements
 - **UI Tests**: Validates composable UI elements using Compose Testing
 - **E2E Test**: Validates the entire flow using Espresso
 - **Code Coverage Badge**: Enable GitHub Actions workflow and generate a code coverage badge using JaCoCo
+
+## Demo
+
+
+
+## Screenshots
