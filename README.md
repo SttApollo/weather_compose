@@ -46,7 +46,8 @@ Tests are written for both the UI and business logic:
 - **Code Coverage Badge**: Enable GitHub Actions workflow and generate a code coverage badge using JaCoCo
 
 ## Demo
+(assets/Screen-recording-Weather-Compose_final.webm)
 
 
 
-## Screenshots
+
