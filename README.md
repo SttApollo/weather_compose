@@ -49,7 +49,7 @@ Tests are written for both the UI and business logic:
 Watch a demo of the app in action [here](https://drive.google.com/file/d/1UmkVOtgMlJmjPS0wcieiDjwIWhL5G4C9/view?usp=sharing)
 
 ## User flow
-![High Level User Flow](assets/Screen Flow.png)
+![High Level User Flow](assets/Screen%20Flow.png)
 
 
 
