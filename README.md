@@ -13,7 +13,7 @@ Weather Compose is built with Jetpack Compose and features real-time weather dat
 
 
 
-### Technologies Highlights
+### Technologies 
 - **Jetpack Compose**: UI built using Compose for declarative, responsive, and efficient development.
 - **MVVM Architecture**: Separates business logic using ViewModels and a repository pattern.
 - **Dependency Injection**: Integrated with Hilt for simplified DI.
