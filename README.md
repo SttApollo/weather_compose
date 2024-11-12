@@ -41,8 +41,8 @@ Tests are written for both the UI and business logic:
   
 
 ## Future Improvements
-- **UI Tests**: Validates composable UI elements using Compose Testing
-- **E2E Test**: Validates the entire flow using Espresso
+- **UI Tests**: Validate composable UI elements using Compose Testing
+- **E2E Test**: Validate the entire flow using Espresso
 - **Code Coverage Badge**: Enable GitHub Actions workflow and generate a code coverage badge using JaCoCo
 
 ## Demo
