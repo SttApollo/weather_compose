@@ -48,23 +48,8 @@ Tests are written for both the UI and business logic:
 ## Demo
 Watch a demo of the app in action [here](https://drive.google.com/file/d/1UmkVOtgMlJmjPS0wcieiDjwIWhL5G4C9/view?usp=sharing)
 
-## Screenshots
+## User flow
+![High Level User Flow](assets/Screen Flow.png)
 
-#### Home Screen Upon Launch
-![Home Screen Location Permission](assets/Home_Location_Permission.png)
-![Home User Location ](assets/Home_User_Location.png)
 
-#### Search Query & Results
-![Home Search Query Results ](assets/Home_Search_Query_Results.png)
-![Weather Detail View ](assets/Weather_Detail_View.png)
-![Weather Detail View Interactive Icons](assets/Weather_Detail_View_Interactive_Icons.png)
-
-#### Save Results 
-![Weather Detail Save Result](assets/Weather_Detail_Save_Result.png)
-
-#### View Saved Results on Home Screen
-![Weather Detail View Saved Results](assets/Home_Saved_Results.png)
-
-#### Delete Item on Home Screen
-![Delete Item](assets/Home_After_Deleting_Item.png)
 
